@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-string myName;
-myName = "Jane";
+string myName = "Jane";
 
 Console.WriteLine(myName);
 
